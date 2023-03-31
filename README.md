@@ -1,6 +1,6 @@
 # Programacao_paralela
 Trabalho passado pelo professor Rafael Roque 
-<p>Alunas: Hemilly Monara Samara Regina</p>
+<p>Alunas: Hemilly Monara e Samara Regina</p>
 
 
 # TCP
